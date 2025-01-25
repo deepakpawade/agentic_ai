@@ -1,0 +1,7 @@
+openai
+langchain
+langchain-openai
+langchain-ollama
+numexpr #required for math tool of langchain
+langchain-community #for langchain tools overall it seems
+python-dotenv
